@@ -1,1 +1,0 @@
-# hackathondevsoc2024
